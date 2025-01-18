@@ -1,4 +1,4 @@
-# Iris Dataset Analysis Project
+# Dataset Analysis Project
 
 This project performs basic data analysis and visualization on the Iris dataset using Python. It includes data loading, cleaning, statistical analysis, and various visualizations.
 
